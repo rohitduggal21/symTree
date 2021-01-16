@@ -2,7 +2,7 @@ import pprint
 
 '''
 ------------------------------------------------------------
-Class sysmptom is an encapsulation of a Symptom
+Class symptom is an encapsulation of a Symptom
 ------------------------------------------------------------
 
 Attributes:
